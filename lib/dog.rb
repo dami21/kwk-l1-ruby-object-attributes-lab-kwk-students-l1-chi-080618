@@ -14,4 +14,4 @@ class Dog
     @breed
   end 
 end 
-
+fido.name = "Fido"
